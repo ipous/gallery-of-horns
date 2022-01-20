@@ -1,4 +1,17 @@
 .App {
   text-align: center;
 }
-
+.App {
+  text-align: center;
+  border: 30px solid #39c7eb;
+  background-color: gray;
+  }
+.beast {
+  border: 5px solid #a19f0a;
+  border-radius: 10%;
+  padding: 50px;
+  background-color: #63e649;
+  }
+.beastDescription{
+  margin-top: 25px;
+}
