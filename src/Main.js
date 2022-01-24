@@ -1,8 +1,6 @@
 import React from 'react';
 import HornedBeast from './HornedBeast';
-import Container from "./react-bootstrap/Container";
-import Row from "./react-bootstrap/Row";
-import beastData from './beastData';
+import beastData from './BeastData';
 import FilterForm from "./FilterForm"
 
 class Main extends React.Component {
