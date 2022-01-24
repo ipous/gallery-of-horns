@@ -8,5 +8,6 @@ render() {
     );
   } 
 }
+render
 
 export default Footer;
